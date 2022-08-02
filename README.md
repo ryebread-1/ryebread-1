@@ -1,5 +1,6 @@
 <div align="center">
   <img height="200" src="http://rye1.lol/n6abN/direct"  />
+  <img src=https://github-readme-stats.vercel.app/api?username=ryebread-1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 </div>
 
 ###
