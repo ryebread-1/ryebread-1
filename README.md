@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">- Discord: rye#7685 <br>- Telegram: @rye_1</p>
+<p align="center">- Discord: rye#4546 <br>- Telegram: @rye_1</p>
 
 ###
 
