@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<p align="center">I am from Russia and currently live in New Zealand, I am 592 years old.</p>
+<p align="center">I am from Ukraine and currently live in New Zealand, I am 592 years old.</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="center">- Discord: rye#4546 <br>- Telegram: [@rye_1](https://t.me/ryevpn)</p>
+<p align="center">- Discord: rye#4546 <br>- Telegram: @ryevpn
 
 ###
 
